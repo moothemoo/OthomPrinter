@@ -1,7 +1,7 @@
 # OthomPrinter
 CoreXY 350mm x 350mm x 350mm Printer
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/moothemoo/OthomPrinter/blob/main/Assembly%20Screenshot?raw=true)
 
 https://cad.onshape.com/documents/486057f9bfa2f3c877bee928/w/97106b5181098ec6194ae382/e/accf4027831999f4600c351c?renderMode=0&uiState=672455f64e527f40fd373195
 
