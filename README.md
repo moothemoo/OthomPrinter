@@ -1,5 +1,5 @@
 # OthomPrinter
-CoreXY 350mm x 350mm x 350mm Printer
+OthomPrinter is a CoreXY kinematics printer with a 350mm x 350mm x 350mm build volume. 
 
 ![alt text](https://github.com/moothemoo/OthomPrinter/blob/main/Assembly%20Screenshot?raw=true)
 
@@ -23,5 +23,6 @@ The electronics are quite simple as an advantage of using prepackaged control bo
 heating. A 750 Watt, 120 VAC bed heater is used for heating, which is throttled by a PWM controlled solid state relay. A 350 Watt switching power supply is used to provide 24 VDC to the control board, which has
 onboard converters for 5V, which then powers the raspberry pi.
 
+# Additional Details
 This printer was designed in Onshape, due to its simple, but effective toolset, while being highly accessible. The low-security nature of cloud-based CAD was not an issue for a personal project, and the advanced 
 features (mainly simulation and generative design) which are available in more powerful CAD softwares were not required.
