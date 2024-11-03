@@ -3,7 +3,6 @@ CoreXY 350mm x 350mm x 350mm Printer
 
 ![alt text](https://github.com/moothemoo/OthomPrinter/blob/main/Assembly%20Screenshot?raw=true)
 
-[Onshape Link](https://cad.onshape.com/documents/486057f9bfa2f3c877bee928/w/97106b5181098ec6194ae382/e/accf4027831999f4600c351c?renderMode=0&uiState=6726fb546543a6303cf7abe5)
 [Onshape Link](https://cad.onshape.com/documents/486057f9bfa2f3c877bee928/w/97106b5181098ec6194ae382/e/accf4027831999f4600c351c?renderMode=0&uiState=6726fb736543a6303cf7b057)
 
 OthomPrinter is a CoreXY kinematics printer with a 350mm x 350mm x 350mm build volume. It features kinematic bed mounting, a lightweight toolhead, a counterspring bed setup, and 3030 extrusion construction. The 
