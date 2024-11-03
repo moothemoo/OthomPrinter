@@ -1,5 +1,9 @@
 # OthomPrinter
-OthomPrinter is a CoreXY kinematics printer with a 350mm x 350mm x 350mm build volume. 
+OthomPrinter is my personal project which was designed from scratch over the course of 2021-2022. Through this project, I gained familiarity with the engineering design process. The requirements and design were by
+far the longest parts of this project. By nature of being a personal project and exploring unknown territory, the requirements and design were closely linked, with things changing drastically enough that the 
+printer had been redesigned from the ground up through a total of three iterations. The learning process involved understanding the properties of many thermoplastics, the limitations of various linear guide 
+systems, the limitations of different kinematic systems, fluid dynamics for the part cooling ducts, a little bit of electronics, and vibration management, to name just a few. This journey became my  my core
+reason to pursure robotics and automation.
 
 ![alt text](https://github.com/moothemoo/OthomPrinter/blob/main/Assembly%20Screenshot?raw=true)
 
