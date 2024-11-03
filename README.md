@@ -4,6 +4,7 @@ CoreXY 350mm x 350mm x 350mm Printer
 ![alt text](https://github.com/moothemoo/OthomPrinter/blob/main/Assembly%20Screenshot?raw=true)
 
 
+# Model Viewing
 To view the CAD model, please copy and paste the link below into a new tab. If you do not do this, you may get a 403 Error.
 https://cad.onshape.com/documents/486057f9bfa2f3c877bee928/w/97106b5181098ec6194ae382/e/accf4027831999f4600c351c
 
