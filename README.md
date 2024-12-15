@@ -5,7 +5,7 @@ printer had been redesigned from the ground up through a total of three iteratio
 systems, the limitations of different kinematic systems, fluid dynamics for the part cooling ducts, a little bit of electronics, and vibration management, to name just a few. This journey became my  my core
 reason to pursure robotics and automation.
 
-![Assembly Screenshot](https://github.com/moothemoo/OthomPrinter/blob/main/Images/Assembly%20Screenshot?raw=true)
+![Assembly Screenshot](Images/AssemblyScreenshot.png)
 
 
 # Model Viewing
